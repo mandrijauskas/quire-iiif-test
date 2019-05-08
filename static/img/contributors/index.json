@@ -1,0 +1,48 @@
+{
+  "id": "http://localhost:1313/img/contributors/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:1313/img/contributors/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:1313/img/contributors/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:1313/img/contributors/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:1313/img/contributors/judith-keller.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "contributors"
+                  ]
+                },
+                "width": 882,
+                "height": 882
+              },
+              "target": "http://localhost:1313/img/contributors/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "contributors"
+        ]
+      },
+      "width": 882,
+      "height": 882
+    }
+  ],
+  "label": {
+    "@none": [
+      "contributors"
+    ]
+  }
+}

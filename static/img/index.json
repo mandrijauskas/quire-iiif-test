@@ -1,0 +1,38 @@
+{
+  "id": "http://localhost:1313/img/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "http://localhost:1313/img/contributors/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "contributors"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:1313/img/figures/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "figures"
+        ]
+      }
+    },
+    {
+      "id": "http://localhost:1313/img/iiif/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "iiif"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "img"
+    ]
+  }
+}
