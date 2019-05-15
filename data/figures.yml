@@ -92,7 +92,17 @@ figure_list:
     src: iiif/_test1/mother.jpg
   - id: "test1234"
     media_type: iiif
-    data: http://or-dev-ec2-iiif-ubuntu-01.aws.getty.edu/static/iiif_prezi/9d0d2bc8-b6bc-44d4-b8e9-f6ef1c97b254.json
+    src: iiif/test2/mother-b.jpg
+    iiif: iiif/test2/index.json
+    zoom_level: 0
+    label: "1"
+  - id: "zoom"
+    media_type: "iiif"
+    src: iiif/_test1/mother.jpg
+    iiif: "https://stacks.stanford.edu/image/iiif/hg676jb4964%2F0380_796-44/info.json"
+    zoom_level: 0
+    caption: "Considered one of the most influential schools of art and design of the twentieth century, the Bauhaus forged a unique educational vision that blended theory with practice in order to cultivate a new generation of artists and designers."
+    label: "1"
   - id: "12.1"
     label: "Table 12.1"
     caption: "Erechtheion craftsmen working in more than one trade. Athenian Building Commission, ca. 409–405 BC. After Randall 1953"
