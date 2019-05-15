@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {
           label: "string",
-          title: "title",
+          name: "title",
           subtitle: "subtitle",
           type: "string",
           class: "string",
