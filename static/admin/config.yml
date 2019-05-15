@@ -1,6 +1,6 @@
 backend:
   name: gitlab
-  repo: mantasandri/test-quire-netlify-cms
+  repo: mantasandri/quire-iiif-test
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "static/img"
