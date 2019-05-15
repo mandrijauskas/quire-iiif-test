@@ -12,15 +12,8 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {
-          label: "string",
-          name: "title",
-          subtitle: "subtitle",
-          type: "string",
-          class: "string",
-          abstract: "string",
-          weight: "number",
-        }
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h2"}
       - {
           label: "Publish Date",
           name: "date",
@@ -34,6 +27,7 @@ collections: # A list of collections the CMS should be able to edit
           required: false,
           tagname: "",
         }
+      - {label: "Abstarct", name: "Abstarct", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
