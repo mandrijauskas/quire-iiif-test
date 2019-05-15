@@ -13,5 +13,5 @@
 
 # Use these settings for Netlify
 #
-baseURL: "https://angry-heisenberg-00688e.netlify.com"
+baseURL: "https://quire-iiif-netlifycms.netlify.com"
 relativeURLs: true
