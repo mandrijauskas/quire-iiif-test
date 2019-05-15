@@ -15,7 +15,9 @@ When Evans was officially hired in October 1935 as an Information Specialist by 
 
 {{< q-figure id="test123" border="all" >}}
 
-{{< q-figure id="test1234" border="all" >}}
+{{< q-figure-zoom id="test1234" >}}
+
+{{< q-figure-zoom id="zoom" >}}
 
 {{< q-figure id="12.1" scale=".8" border="all" >}}
 
