@@ -90,13 +90,13 @@ figure_list:
   - id: "test1234"
     media_type: iiif
     src: iiif/mother.jpg
-    iiif: "img/iiif/mother/info.json"
+    iiif: img/iiif/mother/info.json
     zoom_level: 0
     label: "1"
   - id: "zoom"
     src: iiif/mother-b.jpg
     media_type: iiif
-    iiif: "img/iiif/mother-b/info.json"
+    iiif: img/iiif/mother-b/info.json
     zoom_level: 0
     caption: "Considered one of the most influential schools of art and design of the twentieth century, the Bauhaus forged a unique educational vision that blended theory with practice in order to cultivate a new generation of artists and designers."
     label: "1"
