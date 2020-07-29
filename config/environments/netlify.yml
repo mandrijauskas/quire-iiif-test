@@ -13,5 +13,5 @@
 
 # Use these settings for Netlify
 #
-baseURL: "https://quire-iiif-netlifycms.netlify.com"
+baseURL: "quire-iiif-test.netlify.app"
 relativeURLs: true
