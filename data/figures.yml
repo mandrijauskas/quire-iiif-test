@@ -87,19 +87,16 @@ figure_list:
     src: figures/family.jpg
     caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
     credit: The J. Paul Getty Museum, Los Angeles
-  - id: "test123"
-    media_type: iiif
-    src: iiif/_test1/mother.jpg
   - id: "test1234"
     media_type: iiif
-    src: iiif/test2/mother-b.jpg
-    iiif: iiif/test2/index.json
+    src: iiif/mother.jpg
+    iiif: "img/iiif/mother/info.json"
     zoom_level: 0
     label: "1"
   - id: "zoom"
-    media_type: "iiif"
-    src: iiif/_test1/mother.jpg
-    iiif: "https://stacks.stanford.edu/image/iiif/hg676jb4964%2F0380_796-44/info.json"
+    src: iiif/mother-b.jpg
+    media_type: iiif
+    iiif: "img/iiif/mother-b/info.json"
     zoom_level: 0
     caption: "Considered one of the most influential schools of art and design of the twentieth century, the Bauhaus forged a unique educational vision that blended theory with practice in order to cultivate a new generation of artists and designers."
     label: "1"
