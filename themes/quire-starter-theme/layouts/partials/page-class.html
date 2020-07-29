@@ -1,4 +1,4 @@
-{{- with .Params.class -}}
+quire-page{{ with .Params.class -}}
 {{- $classlist := split . " " -}}
 {{- range $classlist }} quire-page--{{ . }}{{ end -}}
 {{- end -}}

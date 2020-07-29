@@ -3,29 +3,13 @@ const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
 const autoprefixer = require("autoprefixer");
-const CleanWebpackPlugin = require("clean-webpack-plugin");
-const ImageminPlugin = require("imagemin-webpack");
-const imageminGifsicle = require("imagemin-gifsicle");
-const imageminJpegtran = require("imagemin-jpegtran");
-const imageminOptipng = require("imagemin-optipng");
-const imageminSvgo = require("imagemin-svgo");
 
 const PATHS = {
   source: path.join(__dirname, "../source"),
   build: path.join(__dirname, "../static")
 };
 
-const ASSET_PATH = process.env.ASSET_PATH || "/";
-
-// the clean options to use
-let cleanOptions = {
-  dry: false,
-  dangerouslyAllowCleanPatternsOutsideProject: true,
-  cleanOnceBeforeBuildPatterns: [
-    path.join(__dirname, "../img"),
-    path.join(__dirname, "../fonts")
-  ]
-};
+const ASSET_PATH = process.env.ASSET_PATH || "../";
 
 module.exports = {
   mode: "production",
@@ -140,34 +124,10 @@ module.exports = {
     new MiniCssExtractPlugin({
       filename: "css/application.css"
     }),
-    new CleanWebpackPlugin(cleanOptions),
     new webpack.ProvidePlugin({
       $: "jquery",
       jQuery: "jquery",
       "window.jQuery": "jquery"
-    }),
-    // Make sure that the plugin is after any plugins that add images, example `CopyWebpackPlugin`
-    new ImageminPlugin({
-      bail: false, // Ignore errors on corrupted images
-      cache: true,
-      imageminOptions: {
-        // Lossless optimization with custom option
-        // Feel free to experement with options for better result for you
-        plugins: [
-          imageminGifsicle({
-            interlaced: true
-          }),
-          imageminJpegtran({
-            progressive: true
-          }),
-          imageminOptipng({
-            optimizationLevel: 5
-          }),
-          imageminSvgo({
-            removeViewBox: true
-          })
-        ]
-      }
     })
   ]
 };
