@@ -1,21 +1,21 @@
 {
-  "id": "http://localhost:1313/img/figures/index.json",
+  "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/0",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/0/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/0/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/duo.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/duo.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -26,7 +26,7 @@
                 "width": 1024,
                 "height": 803
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/0"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/0"
             }
           ]
         }
@@ -40,19 +40,19 @@
       "height": 803
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/1",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/1/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/1/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-burroughs.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-burroughs.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -63,7 +63,7 @@
                 "width": 1024,
                 "height": 936
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/1"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/1"
             }
           ]
         }
@@ -77,19 +77,19 @@
       "height": 936
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/2",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/2",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/2/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/2/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/2/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/2/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-child.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-child.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -100,7 +100,7 @@
                 "width": 672,
                 "height": 1024
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/2"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/2"
             }
           ]
         }
@@ -114,19 +114,19 @@
       "height": 1024
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/3",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/3",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/3/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/3/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/3/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/3/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-graveyard.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-graveyard.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -137,7 +137,7 @@
                 "width": 1024,
                 "height": 809
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/3"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/3"
             }
           ]
         }
@@ -151,19 +151,19 @@
       "height": 809
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/4",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/4",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/4/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/4/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/4/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/4/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-hymns.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-hymns.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -174,7 +174,7 @@
                 "width": 1024,
                 "height": 731
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/4"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/4"
             }
           ]
         }
@@ -188,19 +188,19 @@
       "height": 731
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/5",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/5",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/5/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/5/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/5/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/5/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-legionnaire.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-legionnaire.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -211,7 +211,7 @@
                 "width": 1024,
                 "height": 680
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/5"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/5"
             }
           ]
         }
@@ -225,19 +225,19 @@
       "height": 680
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/6",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/6",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/6/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/6/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/6/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/6/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-refugee.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-refugee.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -248,7 +248,7 @@
                 "width": 678,
                 "height": 1024
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/6"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/6"
             }
           ]
         }
@@ -262,19 +262,19 @@
       "height": 1024
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/7",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/7/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/7/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-sons.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-sons.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -285,7 +285,7 @@
                 "width": 1024,
                 "height": 930
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/7"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/7"
             }
           ]
         }
@@ -299,19 +299,19 @@
       "height": 930
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/8",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/8",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/8/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/8/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/8/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/8/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-video-still.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-video-still.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -322,7 +322,7 @@
                 "width": 1200,
                 "height": 675
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/8"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/8"
             }
           ]
         }
@@ -336,19 +336,19 @@
       "height": 675
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/9",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/9",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/9/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/9/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/9/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/9/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans-washroom.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans-washroom.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -359,7 +359,7 @@
                 "width": 715,
                 "height": 1024
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/9"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/9"
             }
           ]
         }
@@ -373,19 +373,19 @@
       "height": 1024
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/10",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/10",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/10/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/10/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/10/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/10/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/evans.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/evans.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -396,7 +396,7 @@
                 "width": 600,
                 "height": 413
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/10"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/10"
             }
           ]
         }
@@ -410,19 +410,19 @@
       "height": 413
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/11",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/11",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/11/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/11/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/11/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/11/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/family.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/family.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -433,7 +433,7 @@
                 "width": 1024,
                 "height": 826
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/11"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/11"
             }
           ]
         }
@@ -447,19 +447,19 @@
       "height": 826
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/12",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/12",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/12/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/12/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/12/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/12/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/lange-house.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/lange-house.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -470,7 +470,7 @@
                 "width": 1800,
                 "height": 1385
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/12"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/12"
             }
           ]
         }
@@ -484,19 +484,19 @@
       "height": 1385
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/13",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/13",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/13/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/13/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/13/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/13/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/lange.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/lange.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -507,7 +507,7 @@
                 "width": 954,
                 "height": 1024
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/13"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/13"
             }
           ]
         }
@@ -521,19 +521,19 @@
       "height": 1024
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/14",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/14",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/14/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/14/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/14/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/14/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/mother-b.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/mother-b.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -544,7 +544,7 @@
                 "width": 826,
                 "height": 1024
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/14"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/14"
             }
           ]
         }
@@ -558,19 +558,19 @@
       "height": 1024
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/15",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/15",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/15/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/15/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/15/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/15/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/mother-c.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/mother-c.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -581,7 +581,7 @@
                 "width": 1024,
                 "height": 805
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/15"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/15"
             }
           ]
         }
@@ -595,19 +595,19 @@
       "height": 805
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/16",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/16",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/16/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/16/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/16/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/16/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/mother.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/mother.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -618,7 +618,7 @@
                 "width": 2345,
                 "height": 3000
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/16"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/16"
             }
           ]
         }
@@ -632,19 +632,19 @@
       "height": 3000
     },
     {
-      "id": "http://localhost:1313/img/figures/index.json/canvas/17",
+      "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/17",
       "type": "Canvas",
       "items": [
         {
-          "id": "http://localhost:1313/img/figures/index.json/canvas/17/annotationpage/0",
+          "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/17/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "http://localhost:1313/img/figures/index.json/canvas/17/annotation/0",
+              "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/17/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:1313/img/figures/pickers.jpg",
+                "id": "https://quire-iiif-netlifycms.netlify.com/img/figures/pickers.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -655,7 +655,7 @@
                 "width": 1024,
                 "height": 808
               },
-              "target": "http://localhost:1313/img/figures/index.json/canvas/17"
+              "target": "https://quire-iiif-netlifycms.netlify.com/img/figures/index.json/canvas/17"
             }
           ]
         }
