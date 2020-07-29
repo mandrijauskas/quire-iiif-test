@@ -90,14 +90,14 @@ figure_list:
   - id: "mother-iiif"
     media_type: iiif
     src: iiif/mother.jpg
-    iiif: "img/iiif/mother/info.json"
+    iiif: "/img/iiif/mother/info.json"
     zoom_level: 0
     caption: "Testing 1234"
     label: "1"
   - id: "iiif"
     src: iiif/mother-b.jpg
     media_type: iiif
-    iiif: "img/iiif/mother-b/info.json"
+    iiif: "/img/iiif/mother-b/info.json"
     zoom_level: 0
     caption: "The portly client puffed out his chest with an appearance of some little pride and pulled a dirty and wrinkled newspaper from the inside pocket of his greatcoat."
     label: "mother-b"
